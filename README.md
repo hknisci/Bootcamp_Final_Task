@@ -14,7 +14,7 @@ This is a simple Node.js application with an Express server, containerized using
 
 1. Clone the repository:
    ```bash
-   git clone [<REPOSITORY_URL>](https://github.com/hknisci/Bootcamp_Final_Task.git)
+   git clone https://github.com/hknisci/Bootcamp_Final_Task.git)](https://github.com/hknisci/Bootcamp_Final_Task.git
    cd my_node_app
    ```
 
